@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { useTheme } from './hooks/useTheme'
 import { useCoins } from './hooks/useCoins'
 import Header from './components/Header'
-import CoinList from './components/coinList'
+import CoinList from './components/CoinList'
 import CoinDetail from './components/CoinDetail'
 
 function App() {
